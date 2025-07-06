@@ -24,6 +24,7 @@ My Leetcode Profile: https://leetcode.com/Whyu9-9/
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Whyu9-9/leetcode-solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Whyu9-9/leetcode-solving/tree/master/0005-longest-palindromic-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -40,4 +41,12 @@ My Leetcode Profile: https://leetcode.com/Whyu9-9/
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Whyu9-9/leetcode-solving/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Whyu9-9/leetcode-solving/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Whyu9-9/leetcode-solving/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
